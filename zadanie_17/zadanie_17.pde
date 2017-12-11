@@ -9,7 +9,6 @@ for (int i = 0; i < a; i++) {
     println(m[i]);
     summa = summa + m[i];
 }
-
 srednee = summa / a;
 println("cумма элементов массива", summa);
 println("cреднее арифметическое элементов", srednee);
